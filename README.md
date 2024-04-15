@@ -6,7 +6,7 @@ AS a freelance web developer <br>
 I WANT to generate a simple logo for my projects <br>
 SO THAT I don't have to pay a graphic designer 
 
-**Acceptance Criteria:**
+**Acceptance Criteria:** <br>
 GIVEN a command-line application that accepts user input <br>
 WHEN I am prompted for text <br>
 THEN I can enter up to three characters <br>
