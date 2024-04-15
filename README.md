@@ -23,6 +23,11 @@ WHEN I open the `logo.svg` file in a browser <br>
 THEN I am shown a 300x200 pixel image that matches the criteria I entered 
 
 **Usage Instructions:** 
+1. Open source code in any editor (Visual Studio Code used in demo) <br>
+2. Open the integrated terminal on the index.js doc <br>
+3. Enter "node index.js" into the command line <br>
+4. Follow prompts and submit answer for each <br>
+5. After all prompts have been completed, a logo.svg file will be generated comprised of the selected parameters <br>
 
 **URL:**
 
