@@ -2,9 +2,9 @@
 **Description:** Command-line application that takes in user input to generate a logo and saves it as an SVG file.
 
 **User Story:**
-AS a freelance web developer
-I WANT to generate a simple logo for my projects
-SO THAT I don't have to pay a graphic designer
+AS a freelance web developer <br>
+I WANT to generate a simple logo for my projects <br>
+SO THAT I don't have to pay a graphic designer 
 
 **Acceptance Criteria:**
 GIVEN a command-line application that accepts user input
