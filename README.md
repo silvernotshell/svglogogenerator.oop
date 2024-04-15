@@ -33,7 +33,11 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
 
 **Screenshots:**
+**1. Command Line Interface**
 
+**2. Testing - npm test**
+
+**3. Generated SVG File**
 
 
 **Resources Used:**
