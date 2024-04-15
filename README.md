@@ -1,7 +1,7 @@
 # svglogogenerator
 **Description:** Command-line application that takes in user input to generate a logo and saves it as an SVG file.
 
-**User Story:**
+**User Story:** <br>
 AS a freelance web developer <br>
 I WANT to generate a simple logo for my projects <br>
 SO THAT I don't have to pay a graphic designer 
