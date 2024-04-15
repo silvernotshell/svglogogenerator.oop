@@ -35,9 +35,15 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 **Screenshots:** <br>
 **1. Command Line Interface**
 ![CLI](<images/Screenshot 2024-04-15 at 6.49.45 PM.png>) <br>
+<br>
+<br>
 **2. Testing - NPM**
 ![npmtest](<images/Screenshot 2024-04-15 at 6.50.32 PM.png>) <br>
+<br>
+<br>
 **3. Generated SVG File**
 ![dogsvglogo](<images/Screenshot 2024-04-15 at 6.51.13 PM.png>) <br>
+<br>
+<br>
 
 **Resources Used:**
