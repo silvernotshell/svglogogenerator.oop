@@ -32,7 +32,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 **URL:**
 
 
-**Screenshots:**
+**Screenshots:** <br>
 **1. Command Line Interface**
 
 **2. Testing - npm test**
