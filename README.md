@@ -1,12 +1,12 @@
 # svglogogenerator
-Description: Command-line application that takes in user input to generate a logo and saves it as an SVG file.
+**Description:** Command-line application that takes in user input to generate a logo and saves it as an SVG file.
 
-User Story: 
+**User Story:**
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
 
-Acceptance Criteria:
+**Acceptance Criteria:**
 GIVEN a command-line application that accepts user input
 WHEN I am prompted for text
 THEN I can enter up to three characters
@@ -22,8 +22,13 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 
-Screenshots:
+**Usage Instructions:** 
+
+**URL:**
+
+
+**Screenshots:**
 
 
 
-URL: 
+**Resources Used:**
