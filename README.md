@@ -47,3 +47,6 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 <br>
 
 **Resources Used:**
+https://stackoverflow.com/
+https://www.reddit.com/
+https://github.com/
