@@ -29,7 +29,7 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 4. Follow prompts and submit answer for each <br>
 5. After all prompts have been completed, a logo.svg file will be generated comprised of the selected parameters <br>
 
-**URL:**
+**URL:** https://youtu.be/-WEHsbgG60A?si=fK6tZwJwPZBl1ebj
 
 
 **Screenshots:** <br>
